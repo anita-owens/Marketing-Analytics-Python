@@ -14,5 +14,4 @@ This repo contains marketing analytics exercises using the Python programming la
 
 > This project walks through how to simulate a synthetic dataset. The dataset contains 12 months of sales data for a product.
 
-
 ------------------------------------------------------------------------
